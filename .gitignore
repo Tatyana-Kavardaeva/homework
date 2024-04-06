@@ -1,0 +1,14 @@
+idea/
+*.iml
+*.iws
+*.ipr
+*.pyc
+*.pyo
+*.bak
+*.swp
+venv/
+env/
+*.sqlite3
+*.db
+*.db-journal
+*.log
